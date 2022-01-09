@@ -1,2 +1,3 @@
 # site
- Aplicando Conhecimentos boostrap
+ Aplicando Conhecimentos boostrap;
+ Gerenciando meus repositórios.
